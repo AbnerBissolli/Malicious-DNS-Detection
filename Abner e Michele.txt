@@ -1,0 +1,18 @@
+NOME DAS PESSOAS QUE COMPÕEM A DUPLA
+	[M] Abner Fontebom Bissolli Costa
+	[M] Michele Venturin
+
+DATASET ESCOLHIDO
+ 	Nome do Dataset:
+		CIC-Bell-DNS2021 
+ 	Tipo de Dado:
+		.PCAP e .CSV
+	Link para o Dataset
+		https://www.unb.ca/cic/datasets/bell-dns2021.html
+	Motivação
+		URLs são usadas ​​como fonte para disseminação para os mais variados tipos de ameaças cibernéticas, como spams, phishings e malwares. O problema da verificação das ameaças não é dos mais fáceis, já que novos URLs maliciosos são criados a cada dia. Isto dificulta a utilização de lista negra apenas, exigindo outras abordagens como aplicações de aprendizado de máquina.
+		
+		O dataset escolhido contém nomes de domínios, que foram previamente classificados como benignos, spams, phishings ou malwares, contendo também arquivos com dados de pacotes de rede, obtidos através de acessos a estes domínios. Para a escolha do dataset foi considerada a qualidade dos metadados, com dados atuais (2019, 2020) e documentação disponibilizada pelo autor.
+		
+		Ainda não foi definido pela equipe o foco para a continuação do trabalho no que se refere a escolha da ameaça: phishing, malware, spam.
+		

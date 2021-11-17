@@ -1,0 +1,14 @@
+ # Connection  {0,1}:  0 = Não, 1 = Sim
+ # Name     {0,1}:  0 = Não, 1 = Sim
+ # Address  {0,1}:  0 = Não, 1 = Sim
+ 
+ # Emails           {-1, n}: -1 = Privado, n = número de emails
+ 
+ # Country {'-1', '', 'CC'}: = '-1' = Privado, '' = Não Possui, 'CC' = Sigla
+ # State   {'-1', '', 'SS'}: = '-1' = Privado, '' = Não Possui, 'SS' = Sigla
+ 
+ # Creation   {-1, 0, YYYY}: = -1 = Privado, 0 = Não Possui, YYYY = Ano
+ # Age        {-1, 0, YYYY}: = -1 = Privado ou Não Possui, YY = Idade
+ 
+ # SLDs in SUB {n}: n = Número de Subdomínios 
+ # SLD Distance {n}: n = Menor distância

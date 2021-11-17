@@ -1,0 +1,10 @@
+numpy
+pandas
+python-whois
+ipwhois
+tld
+IPy
+scipy
+re
+datetime
+enchant
