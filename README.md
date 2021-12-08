@@ -3,7 +3,6 @@
  <a href="#projeto">1. PROJETO</a><br>
  <a href="#tecnologias">2. TECNOLOGIAS</a><br>
  <a href="#autores">3. AUTORES</a><br>
- <a href="#autor">4. NÃO SEI</a><br>
 </p></h5>
 
 <h4><a name="projeto">1. PROJETO</a></h4>
@@ -33,6 +32,23 @@ ETAPA 2 : GERAÇÃO DE CARACTERÍSTICAS
 <li>PASSO 8: [02] [03] Gerador de Características Lexicográficas Part 2.ipynb. Dígitos sequenciais, caracteres sequenciais em SSD, SUB, SLD.</li>
 <li>PASSO 9: [02] [04] Gerador de Características Lexicográficas Part 3.ipynb. Palavras comuns e famosas de sites famosos (words_reliable, words_catchy, words_countries, words_bad).</li>
 <li>PASSO 10: [02] [05] Gerador de Características.ipynb. Características para pré-treino e pré-teste.</li>
+</ul>
+</blockquote>
+
+<blockquote>
+ETAPA 3 : NORMALIZAÇÃO
+<ul>
+<li>PASSO 11: [03] [01] Encoder.ipynb</li>
+<li>PASSO 12: [03] [02] Normalizador.ipynb</li>
+</ul>
+</blockquote>
+
+<blockquote>
+ETAPA 4 : CLASSIFICADORES
+<ul>
+<li>PASSO 13: [04] [01] Classifier Random Forest.ipynb</li>
+<li>PASSO 14: [04] [02] Classifier MLP.ipynb</li>
+<li>PASSO 15: [04] [03] Classifier KNN.ipynb</li>
 </ul>
 </blockquote>
 
