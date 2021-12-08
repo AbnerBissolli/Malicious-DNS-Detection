@@ -38,10 +38,10 @@ ETAPA 2 : GERAÇÃO DE CARACTERÍSTICAS
 
 
 
-<h4><h4><a name="tecnologias">TECNOLOGIAS</a></h4>
+<h4><h4><a name="tecnologias">2. TECNOLOGIAS</a></h4>
 As tecnologias usadas no desenvolvimento foram:
 <ul><li>Jupiter Notebook</li><li>Linguagem Python</li></ul>
 
-<h4><a name="autores">AUTORES</a></h4>
+<h4><a name="autores">3. AUTORES</a></h4>
 Abner Fontebom Bissolli Costa (afbcosta@inf.ufpr.br) e Michele Venturin (mventurin@inf.ufpr.br)
 
